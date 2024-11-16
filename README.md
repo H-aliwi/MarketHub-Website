@@ -39,7 +39,7 @@
 ### ***Project Plan ***
 ***
 
-[<img src="../MarketHub-Website/E-shop/public/images/Project plan.png" width="650" height="700"/>]()
+[<img src="/E-shop/public/images/Project plan.png" width="650" height="700"/>]()
 
 
 ***
@@ -50,14 +50,14 @@
 
 
 
-[<img src="../MarketHub-Website/E-shop/public/images/home-customer.png" width="420" height="430"/>]()
-[<img src="../MarketHub-Website/E-shop/public/images/home-shop-owner.png" width="420" height="430"/>]()
+[<img src="/E-shop/public/images/home-customer.png" width="420" height="430"/>]()
+[<img src="/E-shop/public/images/home-shop-owner.png" width="420" height="430"/>]()
 ***
-[<img src="../MarketHub-Website/E-shop/public/images/shop_register.png" width="420" height="430"/>]()
-[<img src="../MarketHub-Website/E-shop/public/images/product_page.png" width="420" height="430"/>]()
+[<img src="/E-shop/public/images/shop_register.png" width="420" height="430"/>]()
+[<img src="/E-shop/public/images/product_page.png" width="420" height="430"/>]()
 ***
-[<img src="../MarketHub-Website/E-shop/public/images/chat_room.png" width="420" height="430"/>]()
-[<img src="../MarketHub-Website/E-shop/public/images/chat_messages.png" width="420" height="430"/>]()
+[<img src="/E-shop/public/images/chat_room.png" width="420" height="430"/>]()
+[<img src="/E-shop/public/images/chat_messages.png" width="420" height="430"/>]()
 
 
 
@@ -69,21 +69,21 @@
 
 
 
-[<img src="../MarketHub-Website/E-shop/public/images/Customer home page .jpg" width="650" height="400"/>]()
+[<img src="/E-shop/public/images/Customer home page .jpg" width="650" height="400"/>]()
 [<img src="../MarketHub-Website/E-shop/public/images/Shop owner home page .jpg" width="650" height="400"/>]()
 ***
-[<img src="../MarketHub-Website/E-shop/public/images/Shop owner register page .jpg" width="650" height="400"/>]()
-[<img src="../MarketHub-Website/E-shop/public/images/Generate report page – Admin.jpg" width="650" height="400"/>]()
+[<img src="/E-shop/public/images/Shop owner register page .jpg" width="650" height="400"/>]()
+[<img src="/E-shop/public/images/Generate report page – Admin.jpg" width="650" height="400"/>]()
 
 ***
-[<img src="../MarketHub-Website/E-shop/public/images/Available chat rooms page.PNG" width="650" height="400"/>]()
-[<img src="../MarketHub-Website/E-shop/public/images/Chat room page.PNG" width="650" height="400"/>]()
+[<img src="/E-shop/public/images/Available chat rooms page.PNG" width="650" height="400"/>]()
+[<img src="/E-shop/public/images/Chat room page.PNG" width="650" height="400"/>]()
 
 
 
 ***
-[<img src="../MarketHub-Website/E-shop/public/images/Shops list page .jpg" width="650" height="400"/>]()
-[<img src="../MarketHub-Website/E-shop/public/images/Cart page.jpg" width="650" height="400"/>]()
+[<img src="/E-shop/public/images/Shops list page .jpg" width="650" height="400"/>]()
+[<img src="/E-shop/public/images/Cart page.jpg" width="650" height="400"/>]()
 
 
 
