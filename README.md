@@ -69,8 +69,8 @@
 
 
 
-[<img src="/E-shop/public/images/Customer home page .jpg" width="650" height="400"/>]()
-[<img src="../MarketHub-Website/E-shop/public/images/Shop owner home page .jpg" width="650" height="400"/>]()
+[<img src="/E-shop/public/images/home-custmoer.jpg" width="650" height="400"/>]()
+[<img src="/E-shop/public/images/Shop owner home page .jpg" width="650" height="400"/>]()
 ***
 [<img src="/E-shop/public/images/Shop owner register page .jpg" width="650" height="400"/>]()
 [<img src="/E-shop/public/images/Generate report page – Admin.jpg" width="650" height="400"/>]()
