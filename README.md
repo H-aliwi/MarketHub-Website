@@ -32,7 +32,7 @@
 ***
 
 
-[<img src="../MarketHub-Website/E-shop/public/images/ERD.png" width="850" height="700"/>]()
+[<img src="/E-shop/public/images/ERD.png" width="850" height="700"/>]()
 
 ***
 
