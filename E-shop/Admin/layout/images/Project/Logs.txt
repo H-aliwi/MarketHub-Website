@@ -1,0 +1,9 @@
+- General Query log
+
+   1- It write whaterver SQl stament recived from clint(store all Query) 
+   2- location  : general_log_file a var
+   3- how to enable : Set general_log='ON';
+   4- defult name : host_name.log
+
+
+- Slow Query log

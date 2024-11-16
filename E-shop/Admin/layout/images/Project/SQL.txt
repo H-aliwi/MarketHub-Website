@@ -1,0 +1,5 @@
+Select Item_Shop_Owner_ID , 
+from Order_items  A ,items i
+where  
+A.item_ID=i.item_ID  And  
+oredre_ID= 0;

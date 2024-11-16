@@ -1,0 +1,26 @@
+Catogry:                        sub-catogry
+1- Mobile phone   -          (sony-samsung-‏Apple)
+2- TVs            -          (sony-samsung-‏Apple)
+3- Computer & labtop  -           (Dell-)
+4- Video Games & Consoles   
+5- Clothes                   (Men - Women -kids)
+6- Jewelry & Watches
+7- Books
+8- Home Furniture
+9- Cameras & Photography
+10- Perfumes
+11- Personal Care
+12- Home applaction      (LG -Philips-Samsung-Hisense)   
+
+
+
+
+
+
+
+
+-------------------------------------------------------------
+
+
+
+orderID  1 

@@ -1,0 +1,33 @@
+
+
+1.1-4
+---
+Figure 4.18 above presents the search process on the SBE Shop website.
+This process empowers users to easily find advertisements by entering  city name, category name, category name and sub-category name. Additionally, users have the option to further refine their search results by inputting a desired price range, specifying the minimum and maximum values. 
+The system then provides the user with a comprehensive list of ads that match the searched data.
+---
+
+1.5
+---
+Figure 4.19 above presents the manage categories process on the SBE Shop website.
+This process allows admin and moerator to view,edit,detele and insert new categry on the system.
+---
+
+1.6
+---
+Figure 4.20 above presents the managed contact form process on the SBE Shop website.
+The system seamlessly facilitates communication between users and shop owners by offering a convenient "Contact Us" form.
+This functionality enables users to submit their inquiries or feedback. Simultaneously, moderators are equipped with the capability to efficiently review and respond to all forms received. Once the moderators provide a reply, users will promptly receive the response, ensuring effective and timely communication. 
+This form can be sent from users or gust users.
+
+---
+
+1.7
+---
+Figure 4.21 above presents the managed contact form process on the SBE Shop website.
+The system allows the user to send a rating and comment on a shop.
+In addition, moderators have the ability to review the rating information associated with each shop and, if necessary, delete inappropriate or irrelevant comments.
+
+---
+---
+

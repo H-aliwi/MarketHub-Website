@@ -1,0 +1,47 @@
+
+
+2.0
+---
+Figure 4.14 above presents the manage ads process on the SBE Shop website.
+This process enables users to submit requests to add new advertisements.
+while also providing moderators with the ability to review and validate all sent requests.
+The moderators can then update the advertisement's status either by accepting or rejecting it.
+after which the users will receive the new status of their advertisement.
+---
+
+3.0
+---
+Figure 4.15 above presents the managed chat process on the SBE Shop website.
+This process enables users to chat with each other via text message.
+First user 1 will send a new message, and it will be stored in the chat room that is shared between two users.
+ then user 2 will receive the message, and it will send a response message. and the opset
+
+
+
+---
+
+4.0
+---
+Figure 4.16 above presents the generate reports process on the SBE Shop website.
+This process enables admin to generate reports by specifying the type of report. 
+He or she can generate reports about users (main user and moderators), categories, advertisements, shops, and the contact us form.
+
+
+
+---
+
+5.0
+---
+
+
+Figure 4.17 above presents the manage shops process on the SBE Shop website.
+This process enables users to submit requests to open a shop on the website.
+while also providing moderators with the ability to review and validate all sent requests and ensure that the user who sent the requests has all the requirements needed to open a shop.
+and passed on that the moderators will update the shop's status either by accepting or rejecting it.
+after which the users will receive the new status of their shop.
+
+
+
+---
+---
+
